@@ -1,0 +1,24 @@
+{
+  "id": 17,
+  "globalId": "bf5a2e4e-4770-4466-9151-58cadff92bd5",
+  "namespace": {
+    "id": 1,
+    "globalId": "9f2f8990-5571-483c-bfbd-43fbf1bfb3bc",
+    "name": "PAASysUpdates",
+    "description": "",
+    "isSystem": true
+  },
+  "name": "VersionCompare",
+  "description": "",
+  "parser": "<parser><type>string</type><replace>false</replace><decodeHtml>false</decodeHtml></parser>",
+  "defaultValue": "",
+  "cacheTime": 0,
+  "cacheLayer": "Global",
+  "src": {
+    "language": "csharp",
+    "compiledRazorLocation": "host",
+    "additionalAssemblies": "",
+    "debug": false,
+    "type": "razor"
+  }
+}
